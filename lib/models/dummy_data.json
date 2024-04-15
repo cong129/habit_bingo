@@ -1,0 +1,103 @@
+{ 
+  [
+    {
+      "categoryName":"wakeUp",
+      "habits": [
+        { "habitName": "Wake Up", "checkTime": "06:00:00" },
+        { "habitName": "A Cup of Water", "checkTime": "06:00:00" }
+      ]
+    },
+    {
+      "categoryName":"sleep",
+      "habits": [
+        { "habitName": "Stepper", "checkTime": "08:00:00" },
+        { "habitName": "pushUp 10", "checkTime": "08:00:00" },
+        { "habitName": "Shower", "checkTime": "08:30:00" },
+        { "habitName": "Skip breakfast", "checkTime": "08:30:00" },
+        { "habitName": "Reading Book", "checkTime": "08:30:00" },
+        { "habitName": "Drink Water", "checkTime": "08:30:00" }
+      ]
+    },
+    {
+      "categoryName":"workout",
+      "habits": [
+        { "habitName": "Stretch & exercise", "checkTime": "15:00:00" },
+        { "habitName": "Back Stretch", "checkTime": "15:00:00" },
+        { "habitName": "Skip Lunch", "checkTime": "15:00:00" },
+        { "habitName": "Push Up", "checkTime": "15:00:00" }
+      ]
+    },
+    {
+      "categoryName":"snack",
+      "habits": [
+        { "habitName": "Skip Snack", "checkTime": "15:00:00" },
+        { "habitName": "Drink Water", "checkTime": "15:00:00" },
+        { "habitName": "Stretch & exercise", "checkTime": "15:00:00" }
+      ]
+    },
+    {
+      "categoryName":"morning",
+      "habits": [
+        { "habitName": "Stepper", "checkTime": "08:00:00" },
+        { "habitName": "pushUp 10", "checkTime": "08:00:00" },
+        { "habitName": "Shower", "checkTime": "08:30:00" },
+        { "habitName": "Skip breakfast", "checkTime":}
+      ]
+    },
+    {
+      "categoryName":"lunch",
+      "habits": [
+        { "habitName": "Back Stretch", "checkTime": "12:00:00" },
+        { "habitName": "Skip Lunch", "checkTime": "12:00:00" },
+        { "habitName": "Push Up", "checkTime": "12:00:00" }
+      ]
+    },
+    {
+      "categoryName":"afternoon",
+      "habits": [
+        { "habitName": "Skip Snack", "checkTime": "15:00:00" },
+        { "habitName": "Drink Water", "checkTime": "15:00:00" },
+        { "habitName": "Stretch & exercise", "checkTime": "15:00:00" }
+      ]
+    },
+    {
+      "categoryName":"evening",
+      "habits": [
+        { "habitName": "Over 10000 steps", "checkTime": "00:00:00" },
+        { "habitName": "Writing Journal or Blog", "checkTime": "00:00:00" }
+      ]
+    },
+    {
+      "categoryName":"dinner",
+      "habits": [
+        { "habitName": "Drink Water", "checkTime": "19:00:00" },
+        { "habitName": "Not See TV", "checkTime": "19:00:00" }
+      ]
+    },
+    {
+      "categoryName":"night",
+      "habits": [
+        { "habitName": "Push Up", "checkTime": "22:00:00" },
+        { "habitName": "Drink Water", "checkTime": "18:00:00" },
+        { "habitName": "Study & Work", "checkTime": "18:00:00" }
+      ]
+    },
+    {
+      "categoryName":"beforeSleep",
+      "habits": [
+        { "habitName": "Stepper", "checkTime": "08:00:00" },
+        { "habitName": "pushUp 10", "checkTime": "08:00:00" },
+        { "habitName": "Shower", "checkTime": "08:30:00" },
+        { "habitName": "Reading Book", "checkTime": "08:30:00" },
+        { "habitName": "Drink Water", "checkTime": "08:30:00" }
+      ]
+    },
+    {
+      "categoryName" : "allDay",
+      "habits": [
+        { "habitName": "Over 10000 steps", "checkTime": "00:00:00" },
+        { "habitName": "Writing Journal or Blog", "checkTime": "00:00:00" }
+      ]
+    }
+  ]
+}
