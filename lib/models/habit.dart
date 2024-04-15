@@ -1,6 +1,6 @@
 class Habit {
   Habit({
-    required this.selected,
+    this.selected = false,
     required this.habitName,
     required this.checkTime,
   });
